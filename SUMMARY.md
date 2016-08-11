@@ -26,5 +26,6 @@
 	* [0811日记](2016/0811.md)
 * [读书笔记](readbook/README.md)
 	* [独裁者手册](readbook/tdhb.md)
+* [自我激励](own/README.md)
 
 
