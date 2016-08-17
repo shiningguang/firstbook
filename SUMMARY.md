@@ -34,5 +34,6 @@
 	* [独裁者手册](readbook/tdhb.md)
 	* [拆掉思维里的墙](readbook/useVPN.md)
 * [自我激励](own/README.md)
+* [健身训练](buildbody.md)
 
 
