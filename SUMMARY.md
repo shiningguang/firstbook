@@ -30,10 +30,12 @@
 	* [0815日记](2016/0815.md)
 	* [0816日记](2016/0816.md)
 	* [0817日记](2016/0817.md)
+	* [0818日记](2016/0818.md)
 * [读书笔记](readbook/README.md)
 	* [独裁者手册](readbook/tdhb.md)
 	* [拆掉思维里的墙](readbook/useVPN.md)
 * [自我激励](own/README.md)
 * [健身训练](buildbody.md)
+* [英语学习](learnEN.md)
 
 
