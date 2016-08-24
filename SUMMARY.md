@@ -36,6 +36,7 @@
 	* [0821日记](2016/0821.md)
 	* [0822日记](2016/0822.md)
 	* [0823日记](2016/0823.md)
+	* [0824日记](2016/0824.md)
 * [读书笔记](readbook/README.md)
 	* [独裁者手册](readbook/tdhb.md)
 	* [拆掉思维里的墙](readbook/useVPN.md)
@@ -44,5 +45,6 @@
 * [英语学习](learnEN.md)
 * [视影评论](video/list.md)
 	* [使徒行者](video/linewalker.md)
+	* [谍影重重5](video/JasonBourne.md)
 
 
