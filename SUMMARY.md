@@ -56,6 +56,8 @@
 * [读书笔记](readbook/README.md)
 	* [独裁者手册](readbook/tdhb.md)
 	* [拆掉思维里的墙](readbook/useVPN.md)
+	* [java程序员修炼之道]()
+	* [MacTalk·人生元编程](readbook/macTalk.md)
 * [自我激励](own/README.md)
 * [健身训练](buildbody.md)
 * [英语学习](learnEN.md)
@@ -68,5 +70,6 @@
 	* [hibernate学习之路](tech/hiberlist.md)
 		* [hibernate小试-一讲](tech/hiber-1.md)
 	* [工具之说](tech/tool.md)
+
 
 
