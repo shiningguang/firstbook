@@ -70,7 +70,7 @@
 	* [崂山游记](tour/laoshan.md)
 * [聊点技术](tech/list.md)
 	* [hibernate学习之路](tech/hiberlist.md)
-		* [hibernate小试-一讲](tech/hiber-1.md)
+		* [hibernate聊聊第一讲](tech/hiber-1.md)
 		* [hibernate聊聊第二讲](tech/hiber-2.md)
 		* [hibernate聊聊第三讲](tech/hiber-3.md)
 	* [工具之说](tech/tool.md)
