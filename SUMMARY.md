@@ -54,6 +54,7 @@
 	* [0908日记](2016/0908.md)
 	* [0909日记](2016/0909.md)
 	* [0910日记](2016/0910.md)
+	* [0911日记](2016/0911.md)
 * [读书笔记](readbook/README.md)
 	* [独裁者手册](readbook/tdhb.md)
 	* [拆掉思维里的墙](readbook/useVPN.md)
@@ -70,6 +71,8 @@
 * [聊点技术](tech/list.md)
 	* [hibernate学习之路](tech/hiberlist.md)
 		* [hibernate小试-一讲](tech/hiber-1.md)
+		* [hibernate聊聊第二讲](tech/hiber-2.md)
+		* [hibernate聊聊第三讲](tech/hiber-3.md)
 	* [工具之说](tech/tool.md)
 
 
