@@ -72,6 +72,7 @@
 	* [java程序员修炼之道]()
 	* [MacTalk·人生元编程](readbook/macTalk.md)
 	* [黑客与画家](readbook/hacker&painter.md)
+	* [悟空传](readbook/king.md)
 * [自我激励](own/README.md)
 * [健身训练](buildbody.md)
 * [英语学习](learnEN.md)
