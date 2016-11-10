@@ -130,6 +130,7 @@
 	* [使徒行者](video/linewalker.md)
 	* [谍影重重5](video/JasonBourne.md)
 	* [鲨滩](video/shake.md)
+	* [the night of](video/nightof.md)
 * [游记](tour/list.md)
 	* [崂山游记](tour/laoshan.md)
 * [聊点技术](tech/list.md)
