@@ -6,5 +6,6 @@
 5. [悟空传](king.md)
 6. [最好的告别](beingmortal.md)
 7. [简约至上](jianyuezhishang.md)
+8. [国富论](guofulun.md)
 
 
