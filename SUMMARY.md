@@ -304,6 +304,7 @@
 	* [反脆弱](readbook/nostronger.md)
 	* [虚无的十字架](readbook/shizijia.md)
 	* [简约至上](readbook/jianyuezhishang.md)
+	* [国富论](readbook/guofulun.md)
 * [自我激励](own/README.md)
 * [健身训练](buildbody.md)
 * [英语学习](learnEN.md)
